@@ -5,7 +5,7 @@
 # Hi there 👋, I'm Vincenzo De Sisto, 23 years old
 
 ## About me:
-I'm a Javascript React JS/Native Developer with 2 years of experience.
+I'm a Javascript React JS/Native Developer with 2 years of experience. <br />
 After a traininig course and a career ad Freelance Developer, I decided to invest my skills in **_bitRocket.dev_** project. I’m strongly addicted to teamwork. As a developer my strenghts are **Problem Solving, CRUD** and **Git-flow**.
 
 ---
