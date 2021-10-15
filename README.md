@@ -10,22 +10,6 @@ After a traininig course and a career ad Freelance Developer, I decided to inves
 
 ---
 
-## Main experiences:
-
-`Almaviva` | **React JS Developer**<br />
- ***I architected and developed new web application based on ReactJS, under the guidance of a team lead.*** <br />
- 
-`Starch s.r.l` | **React JS and React Native Developer**<br />
- ***I Developed a management web application based on React and React Redux from scratch, under the guidance of a team lead.*** <br />
-
-`Excentriq LTD` | **React Native Developer**<br />
- ***I participated in the development of new features of a mobile messaging application in React Native, working with socket connections.*** <br />
-
-`Enel` | **React JS Developer**<br />
- ***As freelance i developed Websites based on HTML, CSS and Javascript.*** <br />
-
----
-
 ## Tech Stack:
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
