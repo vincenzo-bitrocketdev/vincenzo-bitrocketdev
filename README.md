@@ -21,6 +21,7 @@ After a traininig course and a career ad Freelance Developer, I decided to inves
 [<img align="left" alt="Cypress" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNI2O14xx9s1OidGqEuN9HTH85uOnrTDYke3QK2zYSQ4VLTMXlvHWPSgNCjMLJODdel8&usqp=CAU" />][cypress]
 [<img align="left" alt="styled-component" width="30px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />][styled-components]
 [<img align="left" alt="eslint" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][eslint]
+[<img align="left" alt="eslint" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png" />][solidity]
 
 [html5]: https://github.com/topics/html
 [css]: https://github.com/topics/css
@@ -32,6 +33,7 @@ After a traininig course and a career ad Freelance Developer, I decided to inves
 [cypress]: https://github.com/cypress-io/cypress
 [styled-components]: https://github.com/styled-components/styled-components
 [eslint]: https://github.com/eslint/eslint
+[solidity]: https://github.com/ethereum/solidity
 
 
 <!--
