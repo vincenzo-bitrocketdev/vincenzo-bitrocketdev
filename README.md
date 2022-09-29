@@ -1,7 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQECHkAN6s-XKQ/profile-displaybackgroundimage-shrink_350_1400/0/1616163360749?e=1639612800&v=beta&t=0YfZ4ITf6E0xubKOU7oIF-zdGuMFlql_AM7O3ogOftY" >
-
----
-
 # Hi there 👋, I'm Vincenzo De Sisto, 23 years old
 
 ## About me:
